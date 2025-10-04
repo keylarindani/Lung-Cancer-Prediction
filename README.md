@@ -7,7 +7,7 @@ By applying machine learning algorithms, the goal is to identify key risk factor
 Keyla Rindani
 
 ## Dataset
-The dataset used is the Lung Cancer Survey Dataset (`survey lung cancer.csv`), which includes information such as:
+The dataset used is the Lung Cancer Survey Dataset from kaggle (`survey lung cancer.csv`), which includes information such as:
 - Gender  
 - Age  
 - Habits (smoking, alcohol consumption, etc)  
